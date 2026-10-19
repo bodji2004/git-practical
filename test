@@ -1,4 +1,8 @@
  SOME MORE TEXT 
  This is a test 
 More text in newmachnine
+<<<<<<< HEAD
 This change will conflict
+=======
+Some changes
+>>>>>>> 85e9edc2143463753315ab4f114eaf70d178e3df
